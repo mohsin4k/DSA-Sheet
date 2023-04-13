@@ -4,7 +4,7 @@ package trie;
 
 // ex: s ="abab"
 //total sub string = a ab aba abab b ba bab a ab b == 9
-// unique from all the substring: A AB ABA ABAB B BA BAB == 7 ans one "" empty string too so total 8
+// unique from all the substring: A AB ABA ABAB B BA BAB == 7 and one "" empty string too so total 8
 
 
 public class NumberOfUniqueSubString {
